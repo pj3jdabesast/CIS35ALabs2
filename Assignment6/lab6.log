@@ -1,0 +1,17 @@
+Begin Driver1 
+Error: File with name resources/headerWith42Lines1.txt was not found. More detail:java.io.FileNotFoundException: resources/headerWith42Lines1.txt (No such file or directory) 
+exception.StudentGradingException: java.io.FileNotFoundException: resources/headerWith42Lines1.txt (No such file or directory) 
+exception.StudentGradingException: Invalid test score, it cannot be a negative number 
+End Driver1 
+Begin Driver2 
+End Driver2 
+Begin Driver3 
+End Driver3 
+Invalid File contents, each line in file should have StudentID and scores for each of 5 quizzes 
+exception.StudentGradingException: Invalid File contents, each line in file should have StudentID and scores for each of 5 quizzes 
+exception.StudentGradingException: Invalid test score, it cannot be a negative number 
+Invalid File contents, each line in file should have StudentID and scores for each of 5 quizzes 
+Begin Driver2 
+Begin Driver2 
+Begin Driver2 
+Begin Driver2 
