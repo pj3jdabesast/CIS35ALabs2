@@ -1,0 +1,52 @@
+
+Output for Programs, Contain multiple test cases with +ve, -ve and 0 degrees C
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+c
+Enter a farenheit value to convert to celcius
+32
+32.0 degrees Farenheit in Celcius: 0.0 
+
+Do you want to convert another value (yes or no)? 
+yes
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+f
+Enter a celcius value to convert to Farenheit
+0
+0.0 degrees Celcius in Farenheit: 32.0 
+
+Do you want to convert another value (yes or no)? 
+yes
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+c
+Enter a farenheit value to convert to celcius
+70
+70.0 degrees Farenheit in Celcius: 21.1 
+
+Do you want to convert another value (yes or no)? 
+yes
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+f
+Enter a celcius value to convert to Farenheit
+30
+30.0 degrees Celcius in Farenheit: 86.0 
+
+Do you want to convert another value (yes or no)? 
+yes
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+c
+Enter a farenheit value to convert to celcius
+-15
+-15.0 degrees Farenheit in Celcius: -26.1 
+
+Do you want to convert another value (yes or no)? 
+yes
+What type of temperature do you want to convert to? Enter C for Celcius or F for Farenheit 
+f
+Enter a celcius value to convert to Farenheit
+-10
+-10.0 degrees Celcius in Farenheit: 14.0 
+
+Do you want to convert another value (yes or no)? 
+no
